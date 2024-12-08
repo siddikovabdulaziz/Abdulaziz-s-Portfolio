@@ -48,7 +48,7 @@ const LeftBanner = () => {
             Find me in
           </h2>
           <div className="flex gap-4">
-            <a href="https://github.com/noorjsdivs/portfolioone" target="blank">
+            <a href="https://github.com/siddikovabdulaziz/Abdulaziz-s-Portfolio.git" target="blank">
               <span className="bannerIcon">
                 <FaGithub />
               </span>
